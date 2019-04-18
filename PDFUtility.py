@@ -37,7 +37,6 @@ def funcSplit(file, start, end, output):
     pdf_writer.write(pdf_output)
     pdf_output.close()
 
-#C:\Users\aditya.sarkar\Desktop\Test\JCC Jan 2019 Group Apps_ PO 4505811464.pdf
 #Function to clean the active window
 def cls():os.system('cls' if os.name=='nt' else 'clear')
 
@@ -59,7 +58,7 @@ while choice == "y":
 
         cls()
 
-        print("Welcome to myPMO PDF Merge / Split Utility \n")
+        print("Welcome to PDF Merge / Split Utility \n")
             
 
         path: str = input("Please paste the folder path here --> \n")
