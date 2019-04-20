@@ -58,8 +58,7 @@ while choice == "y":
 
         cls()
 
-        print("Welcome to PDF Merge / Split Utility \n")
-            
+        print("Welcome to PDF Merge Utility \n")
 
         path: str = input("Please paste the folder path here --> \n")
 
@@ -83,7 +82,7 @@ while choice == "y":
 
         cls()
         
-        print("Welcome to myPMO PDF Merge / Split Utility \n")
+        print("Welcome to PDF Split Utility \n")
 
         path: str = input("Please enter the PDF file path here --> \n")
 
