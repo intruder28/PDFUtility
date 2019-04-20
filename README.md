@@ -1,2 +1,2 @@
 # PDFUtility
-A PDF utility to Merge / Split PDF files
+A Python based PDF utility to Merge / Split PDF files
